@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Modelos y datos pesados (no subir a GitHub)
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.h5
+*.ckpt
+data/
+models/
+checkpoints/
+
+# Google Colab / Drive
+drive/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
