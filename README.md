@@ -73,7 +73,7 @@ All experiments evaluated on the same Casimedicos-SQuAD validation split (56 exa
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/jokin-izaguirre-perez/medical-qa-spanish
+git clone https://github.com/jookiniza/medical-qa-spanish
 cd medical-qa-spanish
 pip install -r requirements.txt
 ```
